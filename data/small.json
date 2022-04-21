@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0AtMiznRhaSdeqKswyLJ",
+    "metaElection": false,
+    "premium": false,
+    "votoID": "",
+    "derivedElectionID": "8UL1qgMt7Q9kspmJMPm7",
+    "election_location": "Cremlingen",
+    "status": 1,
+    "excludedParties": [],
+    "election_date": "2021-09-12",
+    "topCandidates": 3,
+    "key": "G03158006",
+    "name": "Gemeinderat"
+  },
+  {
+    "id": "0GkUL1pEekJuTR2faHz7",
+    "excludedParties": [],
+    "status": 1,
+    "key": "G03456402",
+    "metaElection": false,
+    "derivedElectionID": "8UL1qgMt7Q9kspmJMPm7",
+    "name": "Samtgemeinderat",
+    "premium": false,
+    "votoID": "",
+    "election_location": "Neuenhaus",
+    "election_date": "2021-09-12",
+    "topCandidates": 3
+  }
+]
